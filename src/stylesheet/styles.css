@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Rochester&display=swap');
+
+body {
+    background-color: #AB3636;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+/* LOGIN */
+.login-header {
+    font-family: Rochester;
+    font-size: 3em;
+    color: white;
+}
+.login-quote {
+    font-family: Rochester;
+    font-size: 2em;
+    color: white;
+}
+.form-header{
+    font-family: Rochester;
+}
+.form-container{
+    background-color: #E8E8E8 !important;
+    border-radius: 38px;
+    padding: 20px;
+    /* width: 50% !important; */
+}
+.form-control{
+    width: 50% !important;
+}

@@ -1,0 +1,12 @@
+.ManageCoursefromStud{
+    background-color: white;
+    margin: 2%;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    font-size: 1.5vw;
+    background-color: white;
+}
+.nav-tabs .nav-link{
+    font-size: 1.5vw; 
+}

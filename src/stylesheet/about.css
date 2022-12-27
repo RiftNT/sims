@@ -1,0 +1,98 @@
+.about_page{
+    background-color: aliceblue;
+    margin: 3%;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    padding: 2%;
+}
+
+.first{
+    background-color: aquamarine;
+}
+
+.second{
+    padding-left: 5%;
+    padding-top: 10%;
+}
+
+.container {  
+    display: grid;  
+    grid-template-columns: 60% 40%;  
+}
+
+p{
+    font-size: 1vw;
+    text-align: justify ;
+}
+
+.container2 {  
+    display: grid;  
+    grid-template-columns: 50% 50%;
+    margin: 2%; 
+}
+
+.slytherin{
+    background-color: green;
+    margin-right: 2%;
+    display: grid;
+    border-radius: 15px;
+    grid-template-columns: 50% 50%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 2.5%;
+}
+.slytherin-text{
+    padding-left: 5%;
+    padding-top: 15%;
+}
+
+.hufflepuff{
+    background-color: goldenrod;
+    margin-left: 2%;
+    border-radius: 15px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 2.5%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.hufflepuff-text{
+    padding-left: 5%;
+    padding-top: 15%;
+}
+
+.container3 {  
+    display: grid;  
+    grid-template-columns: 50% 50%;  
+    margin: 2%;
+    
+}
+
+.ravenclaw{
+    background-color: blue;
+    margin-right: 2%;
+    border-radius: 15px;
+    display: grid;
+    padding: 2.5%;
+    grid-template-columns: 50% 50%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.ravenclaw-text{
+    padding-left: 5%;
+    padding-top: 15%;
+}
+
+.gryffindor{
+    background-color: red;
+    margin-left: 2%;
+    border-radius: 15px;
+    display: grid;
+    padding: 2.5%;
+    grid-template-columns: 50% 50%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.gryffindor-text{
+    padding-left: 5%;
+    padding-top: 15%;
+}
